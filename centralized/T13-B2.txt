@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ajksnfanscoainic naoisjc ai on
 ascnoasn 
 
@@ -5,3 +6,6 @@ ascnoasn
 
 
 LOOL
+=======
+Gabriel
+>>>>>>> b5ff9432fcd46bdf6a5b94cf493b33471c4980c4
