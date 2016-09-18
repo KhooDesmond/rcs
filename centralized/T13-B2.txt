@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ajksnfanscoainic naoisjc ai on
 ascnoasn 
 
@@ -7,3 +8,7 @@ ascnoasn
 LOOL
 Gabriel
 
+=======
+Gabriel
+Gao Yu
+>>>>>>> 83e8f8d66191bf71bce0d98e06ac21fcc807c0e4
